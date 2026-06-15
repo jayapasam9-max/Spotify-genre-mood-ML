@@ -1,0 +1,19 @@
+# Core ML
+torch>=2.2
+transformers>=4.40
+datasets>=2.19
+evaluate>=0.4
+scikit-learn>=1.4
+accelerate>=0.30
+
+# Data
+pandas>=2.2
+numpy>=1.26
+pyyaml>=6.0
+
+# Viz / dashboard / demo
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+streamlit>=1.34
+gradio>=4.30

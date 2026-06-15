@@ -1,0 +1,28 @@
+# ---- Task config ----
+# target can be "genre" or "mood"
+target: genre
+
+# ---- Data ----
+data:
+  lyrics_csv: data/sample_lyrics.csv   # swap to data/full/lyrics.csv for the real run
+  charts_csv: data/sample_charts.csv
+  text_col: lyrics
+  min_chars: 20            # drop near-empty lyrics
+  max_per_class: null      # cap rows per class to balance (null = no cap)
+  test_size: 0.2
+  val_size: 0.1
+  seed: 42
+
+# ---- Model ----
+model:
+  name: distilbert-base-uncased
+  max_length: 256
+
+# ---- Training ----
+train:
+  epochs: 3
+  batch_size: 16
+  lr: 0.00002
+  weight_decay: 0.01
+  output_dir: models/distilbert-genre
+  logging_steps: 20

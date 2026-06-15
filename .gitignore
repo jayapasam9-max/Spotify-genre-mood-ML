@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# ML artifacts
+models/
+outputs/
+*.ckpt
+wandb/
+
+# Data (keep samples, ignore full downloads + generated splits)
+data/raw/
+data/full/
+data/processed/
+reports/
+*.parquet
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
