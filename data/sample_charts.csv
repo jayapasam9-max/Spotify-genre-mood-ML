@@ -1,0 +1,721 @@
+date,region,rank,track,artist,streams
+2026-05-01,Global,1,Nova MC - Rap Anthem,Nova MC,2295363
+2026-05-01,Global,2,Dusty Roads - Country Anthem,Dusty Roads,654976
+2026-05-01,Global,3,Iron Pulse - Rock Anthem,Iron Pulse,875947
+2026-05-01,Global,4,Static Kings - Rock Anthem,Static Kings,385334
+2026-05-01,Global,5,Lil Echo - Rap Anthem,Lil Echo,522127
+2026-05-01,Global,6,June Wilder - Country Anthem,June Wilder,410844
+2026-05-01,Global,7,The Bright - Pop Anthem,The Bright,253701
+2026-05-01,Global,8,Aria Sky - Pop Anthem,Aria Sky,201206
+2026-05-02,Global,1,June Wilder - Country Anthem,June Wilder,1262268
+2026-05-02,Global,2,Dusty Roads - Country Anthem,Dusty Roads,943413
+2026-05-02,Global,3,Lil Echo - Rap Anthem,Lil Echo,503336
+2026-05-02,Global,4,Static Kings - Rock Anthem,Static Kings,519181
+2026-05-02,Global,5,Nova MC - Rap Anthem,Nova MC,556712
+2026-05-02,Global,6,The Bright - Pop Anthem,The Bright,465721
+2026-05-02,Global,7,Iron Pulse - Rock Anthem,Iron Pulse,375084
+2026-05-02,Global,8,Aria Sky - Pop Anthem,Aria Sky,336189
+2026-05-03,Global,1,June Wilder - Country Anthem,June Wilder,1849427
+2026-05-03,Global,2,Aria Sky - Pop Anthem,Aria Sky,710319
+2026-05-03,Global,3,Dusty Roads - Country Anthem,Dusty Roads,425297
+2026-05-03,Global,4,Lil Echo - Rap Anthem,Lil Echo,433596
+2026-05-03,Global,5,The Bright - Pop Anthem,The Bright,382565
+2026-05-03,Global,6,Nova MC - Rap Anthem,Nova MC,318488
+2026-05-03,Global,7,Iron Pulse - Rock Anthem,Iron Pulse,234674
+2026-05-03,Global,8,Static Kings - Rock Anthem,Static Kings,160024
+2026-05-04,Global,1,The Bright - Pop Anthem,The Bright,1455129
+2026-05-04,Global,2,June Wilder - Country Anthem,June Wilder,1051656
+2026-05-04,Global,3,Aria Sky - Pop Anthem,Aria Sky,788899
+2026-05-04,Global,4,Dusty Roads - Country Anthem,Dusty Roads,303893
+2026-05-04,Global,5,Static Kings - Rock Anthem,Static Kings,250884
+2026-05-04,Global,6,Nova MC - Rap Anthem,Nova MC,449844
+2026-05-04,Global,7,Lil Echo - Rap Anthem,Lil Echo,377671
+2026-05-04,Global,8,Iron Pulse - Rock Anthem,Iron Pulse,214910
+2026-05-05,Global,1,Nova MC - Rap Anthem,Nova MC,1359567
+2026-05-05,Global,2,June Wilder - Country Anthem,June Wilder,666667
+2026-05-05,Global,3,The Bright - Pop Anthem,The Bright,453395
+2026-05-05,Global,4,Dusty Roads - Country Anthem,Dusty Roads,611563
+2026-05-05,Global,5,Static Kings - Rock Anthem,Static Kings,541249
+2026-05-05,Global,6,Aria Sky - Pop Anthem,Aria Sky,225267
+2026-05-05,Global,7,Iron Pulse - Rock Anthem,Iron Pulse,396864
+2026-05-05,Global,8,Lil Echo - Rap Anthem,Lil Echo,153819
+2026-05-06,Global,1,The Bright - Pop Anthem,The Bright,2214153
+2026-05-06,Global,2,Iron Pulse - Rock Anthem,Iron Pulse,924898
+2026-05-06,Global,3,Dusty Roads - Country Anthem,Dusty Roads,731190
+2026-05-06,Global,4,June Wilder - Country Anthem,June Wilder,667750
+2026-05-06,Global,5,Aria Sky - Pop Anthem,Aria Sky,340840
+2026-05-06,Global,6,Nova MC - Rap Anthem,Nova MC,445311
+2026-05-06,Global,7,Static Kings - Rock Anthem,Static Kings,232696
+2026-05-06,Global,8,Lil Echo - Rap Anthem,Lil Echo,338099
+2026-05-07,Global,1,Dusty Roads - Country Anthem,Dusty Roads,2595076
+2026-05-07,Global,2,Nova MC - Rap Anthem,Nova MC,647616
+2026-05-07,Global,3,Iron Pulse - Rock Anthem,Iron Pulse,484217
+2026-05-07,Global,4,Lil Echo - Rap Anthem,Lil Echo,467072
+2026-05-07,Global,5,Aria Sky - Pop Anthem,Aria Sky,499985
+2026-05-07,Global,6,June Wilder - Country Anthem,June Wilder,445059
+2026-05-07,Global,7,Static Kings - Rock Anthem,Static Kings,189471
+2026-05-07,Global,8,The Bright - Pop Anthem,The Bright,172198
+2026-05-08,Global,1,June Wilder - Country Anthem,June Wilder,2213946
+2026-05-08,Global,2,Iron Pulse - Rock Anthem,Iron Pulse,1094108
+2026-05-08,Global,3,The Bright - Pop Anthem,The Bright,417061
+2026-05-08,Global,4,Lil Echo - Rap Anthem,Lil Echo,413007
+2026-05-08,Global,5,Dusty Roads - Country Anthem,Dusty Roads,545875
+2026-05-08,Global,6,Static Kings - Rock Anthem,Static Kings,331283
+2026-05-08,Global,7,Aria Sky - Pop Anthem,Aria Sky,346282
+2026-05-08,Global,8,Nova MC - Rap Anthem,Nova MC,290836
+2026-05-09,Global,1,Dusty Roads - Country Anthem,Dusty Roads,2661528
+2026-05-09,Global,2,June Wilder - Country Anthem,June Wilder,1133141
+2026-05-09,Global,3,Aria Sky - Pop Anthem,Aria Sky,842257
+2026-05-09,Global,4,The Bright - Pop Anthem,The Bright,319257
+2026-05-09,Global,5,Nova MC - Rap Anthem,Nova MC,554421
+2026-05-09,Global,6,Lil Echo - Rap Anthem,Lil Echo,276758
+2026-05-09,Global,7,Static Kings - Rock Anthem,Static Kings,326294
+2026-05-09,Global,8,Iron Pulse - Rock Anthem,Iron Pulse,193246
+2026-05-10,Global,1,Aria Sky - Pop Anthem,Aria Sky,1643894
+2026-05-10,Global,2,Iron Pulse - Rock Anthem,Iron Pulse,700845
+2026-05-10,Global,3,The Bright - Pop Anthem,The Bright,416764
+2026-05-10,Global,4,Nova MC - Rap Anthem,Nova MC,385805
+2026-05-10,Global,5,Lil Echo - Rap Anthem,Lil Echo,254594
+2026-05-10,Global,6,Dusty Roads - Country Anthem,Dusty Roads,363086
+2026-05-10,Global,7,Static Kings - Rock Anthem,Static Kings,393669
+2026-05-10,Global,8,June Wilder - Country Anthem,June Wilder,206842
+2026-05-11,Global,1,Lil Echo - Rap Anthem,Lil Echo,2735750
+2026-05-11,Global,2,Aria Sky - Pop Anthem,Aria Sky,887339
+2026-05-11,Global,3,Dusty Roads - Country Anthem,Dusty Roads,805314
+2026-05-11,Global,4,Iron Pulse - Rock Anthem,Iron Pulse,397452
+2026-05-11,Global,5,Nova MC - Rap Anthem,Nova MC,359615
+2026-05-11,Global,6,June Wilder - Country Anthem,June Wilder,351221
+2026-05-11,Global,7,Static Kings - Rock Anthem,Static Kings,204916
+2026-05-11,Global,8,The Bright - Pop Anthem,The Bright,222269
+2026-05-12,Global,1,Lil Echo - Rap Anthem,Lil Echo,1836453
+2026-05-12,Global,2,Nova MC - Rap Anthem,Nova MC,942778
+2026-05-12,Global,3,Iron Pulse - Rock Anthem,Iron Pulse,887470
+2026-05-12,Global,4,June Wilder - Country Anthem,June Wilder,629699
+2026-05-12,Global,5,Aria Sky - Pop Anthem,Aria Sky,258812
+2026-05-12,Global,6,Dusty Roads - Country Anthem,Dusty Roads,345796
+2026-05-12,Global,7,The Bright - Pop Anthem,The Bright,335343
+2026-05-12,Global,8,Static Kings - Rock Anthem,Static Kings,245500
+2026-05-13,Global,1,Nova MC - Rap Anthem,Nova MC,2346650
+2026-05-13,Global,2,Iron Pulse - Rock Anthem,Iron Pulse,1365133
+2026-05-13,Global,3,The Bright - Pop Anthem,The Bright,753179
+2026-05-13,Global,4,Lil Echo - Rap Anthem,Lil Echo,528110
+2026-05-13,Global,5,June Wilder - Country Anthem,June Wilder,332472
+2026-05-13,Global,6,Dusty Roads - Country Anthem,Dusty Roads,354947
+2026-05-13,Global,7,Aria Sky - Pop Anthem,Aria Sky,391584
+2026-05-13,Global,8,Static Kings - Rock Anthem,Static Kings,224993
+2026-05-14,Global,1,June Wilder - Country Anthem,June Wilder,1734678
+2026-05-14,Global,2,Nova MC - Rap Anthem,Nova MC,606439
+2026-05-14,Global,3,Iron Pulse - Rock Anthem,Iron Pulse,485696
+2026-05-14,Global,4,Static Kings - Rock Anthem,Static Kings,439175
+2026-05-14,Global,5,Aria Sky - Pop Anthem,Aria Sky,243537
+2026-05-14,Global,6,Lil Echo - Rap Anthem,Lil Echo,331528
+2026-05-14,Global,7,Dusty Roads - Country Anthem,Dusty Roads,396655
+2026-05-14,Global,8,The Bright - Pop Anthem,The Bright,212620
+2026-05-15,Global,1,Dusty Roads - Country Anthem,Dusty Roads,2131380
+2026-05-15,Global,2,June Wilder - Country Anthem,June Wilder,1102189
+2026-05-15,Global,3,Lil Echo - Rap Anthem,Lil Echo,752795
+2026-05-15,Global,4,Static Kings - Rock Anthem,Static Kings,529072
+2026-05-15,Global,5,Nova MC - Rap Anthem,Nova MC,489311
+2026-05-15,Global,6,The Bright - Pop Anthem,The Bright,258356
+2026-05-15,Global,7,Aria Sky - Pop Anthem,Aria Sky,222016
+2026-05-15,Global,8,Iron Pulse - Rock Anthem,Iron Pulse,216205
+2026-05-16,Global,1,Lil Echo - Rap Anthem,Lil Echo,1769871
+2026-05-16,Global,2,Nova MC - Rap Anthem,Nova MC,604494
+2026-05-16,Global,3,Iron Pulse - Rock Anthem,Iron Pulse,807629
+2026-05-16,Global,4,The Bright - Pop Anthem,The Bright,516405
+2026-05-16,Global,5,Aria Sky - Pop Anthem,Aria Sky,532327
+2026-05-16,Global,6,Dusty Roads - Country Anthem,Dusty Roads,336116
+2026-05-16,Global,7,Static Kings - Rock Anthem,Static Kings,226965
+2026-05-16,Global,8,June Wilder - Country Anthem,June Wilder,180293
+2026-05-17,Global,1,Lil Echo - Rap Anthem,Lil Echo,1650543
+2026-05-17,Global,2,Nova MC - Rap Anthem,Nova MC,1142670
+2026-05-17,Global,3,June Wilder - Country Anthem,June Wilder,910766
+2026-05-17,Global,4,The Bright - Pop Anthem,The Bright,669411
+2026-05-17,Global,5,Aria Sky - Pop Anthem,Aria Sky,386092
+2026-05-17,Global,6,Iron Pulse - Rock Anthem,Iron Pulse,401129
+2026-05-17,Global,7,Dusty Roads - Country Anthem,Dusty Roads,399090
+2026-05-17,Global,8,Static Kings - Rock Anthem,Static Kings,261296
+2026-05-18,Global,1,Static Kings - Rock Anthem,Static Kings,1467979
+2026-05-18,Global,2,Dusty Roads - Country Anthem,Dusty Roads,637140
+2026-05-18,Global,3,Aria Sky - Pop Anthem,Aria Sky,908400
+2026-05-18,Global,4,Lil Echo - Rap Anthem,Lil Echo,396107
+2026-05-18,Global,5,Nova MC - Rap Anthem,Nova MC,454731
+2026-05-18,Global,6,June Wilder - Country Anthem,June Wilder,435281
+2026-05-18,Global,7,The Bright - Pop Anthem,The Bright,353677
+2026-05-18,Global,8,Iron Pulse - Rock Anthem,Iron Pulse,326948
+2026-05-19,Global,1,Dusty Roads - Country Anthem,Dusty Roads,2773285
+2026-05-19,Global,2,June Wilder - Country Anthem,June Wilder,1311942
+2026-05-19,Global,3,Static Kings - Rock Anthem,Static Kings,770614
+2026-05-19,Global,4,The Bright - Pop Anthem,The Bright,350432
+2026-05-19,Global,5,Lil Echo - Rap Anthem,Lil Echo,530345
+2026-05-19,Global,6,Nova MC - Rap Anthem,Nova MC,230542
+2026-05-19,Global,7,Iron Pulse - Rock Anthem,Iron Pulse,354549
+2026-05-19,Global,8,Aria Sky - Pop Anthem,Aria Sky,318370
+2026-05-20,Global,1,June Wilder - Country Anthem,June Wilder,1358359
+2026-05-20,Global,2,The Bright - Pop Anthem,The Bright,1236209
+2026-05-20,Global,3,Aria Sky - Pop Anthem,Aria Sky,786963
+2026-05-20,Global,4,Nova MC - Rap Anthem,Nova MC,368366
+2026-05-20,Global,5,Lil Echo - Rap Anthem,Lil Echo,352822
+2026-05-20,Global,6,Iron Pulse - Rock Anthem,Iron Pulse,442769
+2026-05-20,Global,7,Static Kings - Rock Anthem,Static Kings,351011
+2026-05-20,Global,8,Dusty Roads - Country Anthem,Dusty Roads,254450
+2026-05-21,Global,1,Static Kings - Rock Anthem,Static Kings,2005012
+2026-05-21,Global,2,The Bright - Pop Anthem,The Bright,769148
+2026-05-21,Global,3,Nova MC - Rap Anthem,Nova MC,598095
+2026-05-21,Global,4,Dusty Roads - Country Anthem,Dusty Roads,520095
+2026-05-21,Global,5,Iron Pulse - Rock Anthem,Iron Pulse,266096
+2026-05-21,Global,6,Lil Echo - Rap Anthem,Lil Echo,356944
+2026-05-21,Global,7,June Wilder - Country Anthem,June Wilder,242959
+2026-05-21,Global,8,Aria Sky - Pop Anthem,Aria Sky,299924
+2026-05-22,Global,1,Static Kings - Rock Anthem,Static Kings,2400659
+2026-05-22,Global,2,Lil Echo - Rap Anthem,Lil Echo,1218501
+2026-05-22,Global,3,The Bright - Pop Anthem,The Bright,889156
+2026-05-22,Global,4,Nova MC - Rap Anthem,Nova MC,491500
+2026-05-22,Global,5,June Wilder - Country Anthem,June Wilder,484988
+2026-05-22,Global,6,Dusty Roads - Country Anthem,Dusty Roads,386497
+2026-05-22,Global,7,Aria Sky - Pop Anthem,Aria Sky,367561
+2026-05-22,Global,8,Iron Pulse - Rock Anthem,Iron Pulse,163433
+2026-05-23,Global,1,Iron Pulse - Rock Anthem,Iron Pulse,2738311
+2026-05-23,Global,2,Aria Sky - Pop Anthem,Aria Sky,848793
+2026-05-23,Global,3,Lil Echo - Rap Anthem,Lil Echo,428490
+2026-05-23,Global,4,Static Kings - Rock Anthem,Static Kings,338389
+2026-05-23,Global,5,June Wilder - Country Anthem,June Wilder,404452
+2026-05-23,Global,6,Nova MC - Rap Anthem,Nova MC,244832
+2026-05-23,Global,7,The Bright - Pop Anthem,The Bright,343769
+2026-05-23,Global,8,Dusty Roads - Country Anthem,Dusty Roads,182502
+2026-05-24,Global,1,Nova MC - Rap Anthem,Nova MC,1416432
+2026-05-24,Global,2,Lil Echo - Rap Anthem,Lil Echo,1356411
+2026-05-24,Global,3,Aria Sky - Pop Anthem,Aria Sky,431551
+2026-05-24,Global,4,Iron Pulse - Rock Anthem,Iron Pulse,335472
+2026-05-24,Global,5,Dusty Roads - Country Anthem,Dusty Roads,329198
+2026-05-24,Global,6,June Wilder - Country Anthem,June Wilder,463307
+2026-05-24,Global,7,Static Kings - Rock Anthem,Static Kings,321104
+2026-05-24,Global,8,The Bright - Pop Anthem,The Bright,296228
+2026-05-25,Global,1,Lil Echo - Rap Anthem,Lil Echo,2377150
+2026-05-25,Global,2,Nova MC - Rap Anthem,Nova MC,1187829
+2026-05-25,Global,3,June Wilder - Country Anthem,June Wilder,468043
+2026-05-25,Global,4,Dusty Roads - Country Anthem,Dusty Roads,553617
+2026-05-25,Global,5,Static Kings - Rock Anthem,Static Kings,553176
+2026-05-25,Global,6,Aria Sky - Pop Anthem,Aria Sky,273866
+2026-05-25,Global,7,Iron Pulse - Rock Anthem,Iron Pulse,334718
+2026-05-25,Global,8,The Bright - Pop Anthem,The Bright,179853
+2026-05-26,Global,1,Dusty Roads - Country Anthem,Dusty Roads,1589918
+2026-05-26,Global,2,Lil Echo - Rap Anthem,Lil Echo,1174281
+2026-05-26,Global,3,The Bright - Pop Anthem,The Bright,422095
+2026-05-26,Global,4,June Wilder - Country Anthem,June Wilder,610738
+2026-05-26,Global,5,Aria Sky - Pop Anthem,Aria Sky,281805
+2026-05-26,Global,6,Iron Pulse - Rock Anthem,Iron Pulse,224943
+2026-05-26,Global,7,Nova MC - Rap Anthem,Nova MC,248106
+2026-05-26,Global,8,Static Kings - Rock Anthem,Static Kings,159406
+2026-05-27,Global,1,Aria Sky - Pop Anthem,Aria Sky,1931068
+2026-05-27,Global,2,June Wilder - Country Anthem,June Wilder,884687
+2026-05-27,Global,3,Lil Echo - Rap Anthem,Lil Echo,881649
+2026-05-27,Global,4,Nova MC - Rap Anthem,Nova MC,338381
+2026-05-27,Global,5,Static Kings - Rock Anthem,Static Kings,411926
+2026-05-27,Global,6,The Bright - Pop Anthem,The Bright,235205
+2026-05-27,Global,7,Iron Pulse - Rock Anthem,Iron Pulse,187665
+2026-05-27,Global,8,Dusty Roads - Country Anthem,Dusty Roads,154583
+2026-05-28,Global,1,Dusty Roads - Country Anthem,Dusty Roads,2584302
+2026-05-28,Global,2,Aria Sky - Pop Anthem,Aria Sky,632701
+2026-05-28,Global,3,Nova MC - Rap Anthem,Nova MC,903941
+2026-05-28,Global,4,June Wilder - Country Anthem,June Wilder,532816
+2026-05-28,Global,5,The Bright - Pop Anthem,The Bright,545851
+2026-05-28,Global,6,Lil Echo - Rap Anthem,Lil Echo,258178
+2026-05-28,Global,7,Static Kings - Rock Anthem,Static Kings,387225
+2026-05-28,Global,8,Iron Pulse - Rock Anthem,Iron Pulse,155834
+2026-05-29,Global,1,June Wilder - Country Anthem,June Wilder,1459523
+2026-05-29,Global,2,Iron Pulse - Rock Anthem,Iron Pulse,1053991
+2026-05-29,Global,3,The Bright - Pop Anthem,The Bright,827444
+2026-05-29,Global,4,Aria Sky - Pop Anthem,Aria Sky,381209
+2026-05-29,Global,5,Dusty Roads - Country Anthem,Dusty Roads,277924
+2026-05-29,Global,6,Nova MC - Rap Anthem,Nova MC,329826
+2026-05-29,Global,7,Lil Echo - Rap Anthem,Lil Echo,285962
+2026-05-29,Global,8,Static Kings - Rock Anthem,Static Kings,223378
+2026-05-30,Global,1,The Bright - Pop Anthem,The Bright,2320681
+2026-05-30,Global,2,Iron Pulse - Rock Anthem,Iron Pulse,1343889
+2026-05-30,Global,3,June Wilder - Country Anthem,June Wilder,444860
+2026-05-30,Global,4,Static Kings - Rock Anthem,Static Kings,504857
+2026-05-30,Global,5,Aria Sky - Pop Anthem,Aria Sky,365989
+2026-05-30,Global,6,Nova MC - Rap Anthem,Nova MC,296445
+2026-05-30,Global,7,Lil Echo - Rap Anthem,Lil Echo,240730
+2026-05-30,Global,8,Dusty Roads - Country Anthem,Dusty Roads,207387
+2026-05-01,United States,1,Aria Sky - Pop Anthem,Aria Sky,2295772
+2026-05-01,United States,2,Dusty Roads - Country Anthem,Dusty Roads,1083727
+2026-05-01,United States,3,The Bright - Pop Anthem,The Bright,500567
+2026-05-01,United States,4,Nova MC - Rap Anthem,Nova MC,389887
+2026-05-01,United States,5,June Wilder - Country Anthem,June Wilder,373386
+2026-05-01,United States,6,Lil Echo - Rap Anthem,Lil Echo,202276
+2026-05-01,United States,7,Iron Pulse - Rock Anthem,Iron Pulse,319365
+2026-05-01,United States,8,Static Kings - Rock Anthem,Static Kings,225385
+2026-05-02,United States,1,Static Kings - Rock Anthem,Static Kings,1341535
+2026-05-02,United States,2,Lil Echo - Rap Anthem,Lil Echo,1374925
+2026-05-02,United States,3,Iron Pulse - Rock Anthem,Iron Pulse,536387
+2026-05-02,United States,4,The Bright - Pop Anthem,The Bright,614332
+2026-05-02,United States,5,June Wilder - Country Anthem,June Wilder,452948
+2026-05-02,United States,6,Nova MC - Rap Anthem,Nova MC,445236
+2026-05-02,United States,7,Aria Sky - Pop Anthem,Aria Sky,340307
+2026-05-02,United States,8,Dusty Roads - Country Anthem,Dusty Roads,338167
+2026-05-03,United States,1,The Bright - Pop Anthem,The Bright,2718629
+2026-05-03,United States,2,Dusty Roads - Country Anthem,Dusty Roads,1075294
+2026-05-03,United States,3,Static Kings - Rock Anthem,Static Kings,766529
+2026-05-03,United States,4,Lil Echo - Rap Anthem,Lil Echo,339234
+2026-05-03,United States,5,Nova MC - Rap Anthem,Nova MC,439287
+2026-05-03,United States,6,Iron Pulse - Rock Anthem,Iron Pulse,308683
+2026-05-03,United States,7,June Wilder - Country Anthem,June Wilder,317593
+2026-05-03,United States,8,Aria Sky - Pop Anthem,Aria Sky,294870
+2026-05-04,United States,1,Lil Echo - Rap Anthem,Lil Echo,2095528
+2026-05-04,United States,2,The Bright - Pop Anthem,The Bright,1243998
+2026-05-04,United States,3,Aria Sky - Pop Anthem,Aria Sky,873259
+2026-05-04,United States,4,Iron Pulse - Rock Anthem,Iron Pulse,588066
+2026-05-04,United States,5,June Wilder - Country Anthem,June Wilder,547969
+2026-05-04,United States,6,Static Kings - Rock Anthem,Static Kings,275128
+2026-05-04,United States,7,Nova MC - Rap Anthem,Nova MC,276784
+2026-05-04,United States,8,Dusty Roads - Country Anthem,Dusty Roads,341599
+2026-05-05,United States,1,The Bright - Pop Anthem,The Bright,2718776
+2026-05-05,United States,2,Static Kings - Rock Anthem,Static Kings,1359491
+2026-05-05,United States,3,Nova MC - Rap Anthem,Nova MC,418525
+2026-05-05,United States,4,Dusty Roads - Country Anthem,Dusty Roads,575809
+2026-05-05,United States,5,Lil Echo - Rap Anthem,Lil Echo,264815
+2026-05-05,United States,6,Iron Pulse - Rock Anthem,Iron Pulse,388374
+2026-05-05,United States,7,Aria Sky - Pop Anthem,Aria Sky,255050
+2026-05-05,United States,8,June Wilder - Country Anthem,June Wilder,283692
+2026-05-06,United States,1,Static Kings - Rock Anthem,Static Kings,2665820
+2026-05-06,United States,2,June Wilder - Country Anthem,June Wilder,1050972
+2026-05-06,United States,3,Nova MC - Rap Anthem,Nova MC,543233
+2026-05-06,United States,4,Dusty Roads - Country Anthem,Dusty Roads,432330
+2026-05-06,United States,5,Aria Sky - Pop Anthem,Aria Sky,385130
+2026-05-06,United States,6,Lil Echo - Rap Anthem,Lil Echo,356487
+2026-05-06,United States,7,Iron Pulse - Rock Anthem,Iron Pulse,375980
+2026-05-06,United States,8,The Bright - Pop Anthem,The Bright,309497
+2026-05-07,United States,1,Aria Sky - Pop Anthem,Aria Sky,1793150
+2026-05-07,United States,2,The Bright - Pop Anthem,The Bright,977750
+2026-05-07,United States,3,Iron Pulse - Rock Anthem,Iron Pulse,857198
+2026-05-07,United States,4,Dusty Roads - Country Anthem,Dusty Roads,457210
+2026-05-07,United States,5,Lil Echo - Rap Anthem,Lil Echo,537981
+2026-05-07,United States,6,June Wilder - Country Anthem,June Wilder,358572
+2026-05-07,United States,7,Nova MC - Rap Anthem,Nova MC,286351
+2026-05-07,United States,8,Static Kings - Rock Anthem,Static Kings,342455
+2026-05-08,United States,1,Lil Echo - Rap Anthem,Lil Echo,1656881
+2026-05-08,United States,2,June Wilder - Country Anthem,June Wilder,617700
+2026-05-08,United States,3,Static Kings - Rock Anthem,Static Kings,772128
+2026-05-08,United States,4,Dusty Roads - Country Anthem,Dusty Roads,303167
+2026-05-08,United States,5,The Bright - Pop Anthem,The Bright,346252
+2026-05-08,United States,6,Nova MC - Rap Anthem,Nova MC,423672
+2026-05-08,United States,7,Aria Sky - Pop Anthem,Aria Sky,312760
+2026-05-08,United States,8,Iron Pulse - Rock Anthem,Iron Pulse,337979
+2026-05-09,United States,1,Lil Echo - Rap Anthem,Lil Echo,2458443
+2026-05-09,United States,2,Iron Pulse - Rock Anthem,Iron Pulse,896972
+2026-05-09,United States,3,Dusty Roads - Country Anthem,Dusty Roads,603352
+2026-05-09,United States,4,Static Kings - Rock Anthem,Static Kings,420834
+2026-05-09,United States,5,June Wilder - Country Anthem,June Wilder,382938
+2026-05-09,United States,6,The Bright - Pop Anthem,The Bright,230091
+2026-05-09,United States,7,Nova MC - Rap Anthem,Nova MC,382317
+2026-05-09,United States,8,Aria Sky - Pop Anthem,Aria Sky,152709
+2026-05-10,United States,1,Aria Sky - Pop Anthem,Aria Sky,1396063
+2026-05-10,United States,2,Lil Echo - Rap Anthem,Lil Echo,1250910
+2026-05-10,United States,3,Iron Pulse - Rock Anthem,Iron Pulse,428074
+2026-05-10,United States,4,Dusty Roads - Country Anthem,Dusty Roads,567079
+2026-05-10,United States,5,Nova MC - Rap Anthem,Nova MC,324727
+2026-05-10,United States,6,The Bright - Pop Anthem,The Bright,345189
+2026-05-10,United States,7,June Wilder - Country Anthem,June Wilder,216094
+2026-05-10,United States,8,Static Kings - Rock Anthem,Static Kings,308527
+2026-05-11,United States,1,Dusty Roads - Country Anthem,Dusty Roads,1924488
+2026-05-11,United States,2,June Wilder - Country Anthem,June Wilder,930119
+2026-05-11,United States,3,Nova MC - Rap Anthem,Nova MC,750818
+2026-05-11,United States,4,Static Kings - Rock Anthem,Static Kings,483159
+2026-05-11,United States,5,Aria Sky - Pop Anthem,Aria Sky,273359
+2026-05-11,United States,6,Lil Echo - Rap Anthem,Lil Echo,441989
+2026-05-11,United States,7,The Bright - Pop Anthem,The Bright,377981
+2026-05-11,United States,8,Iron Pulse - Rock Anthem,Iron Pulse,155997
+2026-05-12,United States,1,Lil Echo - Rap Anthem,Lil Echo,1789376
+2026-05-12,United States,2,June Wilder - Country Anthem,June Wilder,1039186
+2026-05-12,United States,3,Aria Sky - Pop Anthem,Aria Sky,449268
+2026-05-12,United States,4,Dusty Roads - Country Anthem,Dusty Roads,673012
+2026-05-12,United States,5,Static Kings - Rock Anthem,Static Kings,329872
+2026-05-12,United States,6,Nova MC - Rap Anthem,Nova MC,241711
+2026-05-12,United States,7,The Bright - Pop Anthem,The Bright,254342
+2026-05-12,United States,8,Iron Pulse - Rock Anthem,Iron Pulse,343892
+2026-05-13,United States,1,Aria Sky - Pop Anthem,Aria Sky,1277775
+2026-05-13,United States,2,The Bright - Pop Anthem,The Bright,997776
+2026-05-13,United States,3,Lil Echo - Rap Anthem,Lil Echo,742835
+2026-05-13,United States,4,June Wilder - Country Anthem,June Wilder,365440
+2026-05-13,United States,5,Static Kings - Rock Anthem,Static Kings,447393
+2026-05-13,United States,6,Iron Pulse - Rock Anthem,Iron Pulse,417564
+2026-05-13,United States,7,Dusty Roads - Country Anthem,Dusty Roads,177214
+2026-05-13,United States,8,Nova MC - Rap Anthem,Nova MC,255807
+2026-05-14,United States,1,The Bright - Pop Anthem,The Bright,2123687
+2026-05-14,United States,2,Static Kings - Rock Anthem,Static Kings,920244
+2026-05-14,United States,3,Lil Echo - Rap Anthem,Lil Echo,572754
+2026-05-14,United States,4,Iron Pulse - Rock Anthem,Iron Pulse,375320
+2026-05-14,United States,5,June Wilder - Country Anthem,June Wilder,389769
+2026-05-14,United States,6,Aria Sky - Pop Anthem,Aria Sky,229726
+2026-05-14,United States,7,Dusty Roads - Country Anthem,Dusty Roads,379663
+2026-05-14,United States,8,Nova MC - Rap Anthem,Nova MC,279141
+2026-05-15,United States,1,Nova MC - Rap Anthem,Nova MC,2684114
+2026-05-15,United States,2,Iron Pulse - Rock Anthem,Iron Pulse,893990
+2026-05-15,United States,3,The Bright - Pop Anthem,The Bright,746174
+2026-05-15,United States,4,Dusty Roads - Country Anthem,Dusty Roads,563314
+2026-05-15,United States,5,Lil Echo - Rap Anthem,Lil Echo,254601
+2026-05-15,United States,6,June Wilder - Country Anthem,June Wilder,206751
+2026-05-15,United States,7,Static Kings - Rock Anthem,Static Kings,206167
+2026-05-15,United States,8,Aria Sky - Pop Anthem,Aria Sky,321266
+2026-05-16,United States,1,Dusty Roads - Country Anthem,Dusty Roads,2260108
+2026-05-16,United States,2,The Bright - Pop Anthem,The Bright,1356290
+2026-05-16,United States,3,Lil Echo - Rap Anthem,Lil Echo,463954
+2026-05-16,United States,4,Nova MC - Rap Anthem,Nova MC,310587
+2026-05-16,United States,5,Static Kings - Rock Anthem,Static Kings,336359
+2026-05-16,United States,6,Aria Sky - Pop Anthem,Aria Sky,458042
+2026-05-16,United States,7,Iron Pulse - Rock Anthem,Iron Pulse,329668
+2026-05-16,United States,8,June Wilder - Country Anthem,June Wilder,174683
+2026-05-17,United States,1,June Wilder - Country Anthem,June Wilder,1517535
+2026-05-17,United States,2,Iron Pulse - Rock Anthem,Iron Pulse,758492
+2026-05-17,United States,3,Static Kings - Rock Anthem,Static Kings,731964
+2026-05-17,United States,4,Aria Sky - Pop Anthem,Aria Sky,440425
+2026-05-17,United States,5,Nova MC - Rap Anthem,Nova MC,289335
+2026-05-17,United States,6,Lil Echo - Rap Anthem,Lil Echo,406817
+2026-05-17,United States,7,The Bright - Pop Anthem,The Bright,211659
+2026-05-17,United States,8,Dusty Roads - Country Anthem,Dusty Roads,294169
+2026-05-18,United States,1,Dusty Roads - Country Anthem,Dusty Roads,2746176
+2026-05-18,United States,2,Aria Sky - Pop Anthem,Aria Sky,881799
+2026-05-18,United States,3,The Bright - Pop Anthem,The Bright,876400
+2026-05-18,United States,4,June Wilder - Country Anthem,June Wilder,563709
+2026-05-18,United States,5,Lil Echo - Rap Anthem,Lil Echo,308226
+2026-05-18,United States,6,Iron Pulse - Rock Anthem,Iron Pulse,262568
+2026-05-18,United States,7,Nova MC - Rap Anthem,Nova MC,210051
+2026-05-18,United States,8,Static Kings - Rock Anthem,Static Kings,277987
+2026-05-19,United States,1,Static Kings - Rock Anthem,Static Kings,1659727
+2026-05-19,United States,2,Lil Echo - Rap Anthem,Lil Echo,1282291
+2026-05-19,United States,3,The Bright - Pop Anthem,The Bright,768634
+2026-05-19,United States,4,Aria Sky - Pop Anthem,Aria Sky,631322
+2026-05-19,United States,5,Iron Pulse - Rock Anthem,Iron Pulse,490147
+2026-05-19,United States,6,Dusty Roads - Country Anthem,Dusty Roads,259215
+2026-05-19,United States,7,Nova MC - Rap Anthem,Nova MC,252351
+2026-05-19,United States,8,June Wilder - Country Anthem,June Wilder,175840
+2026-05-20,United States,1,Iron Pulse - Rock Anthem,Iron Pulse,1346620
+2026-05-20,United States,2,June Wilder - Country Anthem,June Wilder,639163
+2026-05-20,United States,3,Nova MC - Rap Anthem,Nova MC,920599
+2026-05-20,United States,4,Aria Sky - Pop Anthem,Aria Sky,318224
+2026-05-20,United States,5,Dusty Roads - Country Anthem,Dusty Roads,299980
+2026-05-20,United States,6,The Bright - Pop Anthem,The Bright,361902
+2026-05-20,United States,7,Lil Echo - Rap Anthem,Lil Echo,351522
+2026-05-20,United States,8,Static Kings - Rock Anthem,Static Kings,174158
+2026-05-21,United States,1,Dusty Roads - Country Anthem,Dusty Roads,1399490
+2026-05-21,United States,2,Iron Pulse - Rock Anthem,Iron Pulse,917140
+2026-05-21,United States,3,Lil Echo - Rap Anthem,Lil Echo,588917
+2026-05-21,United States,4,June Wilder - Country Anthem,June Wilder,638128
+2026-05-21,United States,5,Nova MC - Rap Anthem,Nova MC,503560
+2026-05-21,United States,6,Aria Sky - Pop Anthem,Aria Sky,347632
+2026-05-21,United States,7,Static Kings - Rock Anthem,Static Kings,375531
+2026-05-21,United States,8,The Bright - Pop Anthem,The Bright,261655
+2026-05-22,United States,1,Dusty Roads - Country Anthem,Dusty Roads,2446961
+2026-05-22,United States,2,The Bright - Pop Anthem,The Bright,982781
+2026-05-22,United States,3,Nova MC - Rap Anthem,Nova MC,572966
+2026-05-22,United States,4,June Wilder - Country Anthem,June Wilder,601500
+2026-05-22,United States,5,Aria Sky - Pop Anthem,Aria Sky,281927
+2026-05-22,United States,6,Static Kings - Rock Anthem,Static Kings,255952
+2026-05-22,United States,7,Lil Echo - Rap Anthem,Lil Echo,393111
+2026-05-22,United States,8,Iron Pulse - Rock Anthem,Iron Pulse,193338
+2026-05-23,United States,1,Dusty Roads - Country Anthem,Dusty Roads,1606010
+2026-05-23,United States,2,Lil Echo - Rap Anthem,Lil Echo,723174
+2026-05-23,United States,3,Iron Pulse - Rock Anthem,Iron Pulse,698780
+2026-05-23,United States,4,Aria Sky - Pop Anthem,Aria Sky,568141
+2026-05-23,United States,5,Nova MC - Rap Anthem,Nova MC,476981
+2026-05-23,United States,6,Static Kings - Rock Anthem,Static Kings,241142
+2026-05-23,United States,7,June Wilder - Country Anthem,June Wilder,357871
+2026-05-23,United States,8,The Bright - Pop Anthem,The Bright,348162
+2026-05-24,United States,1,Dusty Roads - Country Anthem,Dusty Roads,2513684
+2026-05-24,United States,2,Lil Echo - Rap Anthem,Lil Echo,1094345
+2026-05-24,United States,3,The Bright - Pop Anthem,The Bright,929630
+2026-05-24,United States,4,Static Kings - Rock Anthem,Static Kings,384425
+2026-05-24,United States,5,June Wilder - Country Anthem,June Wilder,449948
+2026-05-24,United States,6,Nova MC - Rap Anthem,Nova MC,440058
+2026-05-24,United States,7,Iron Pulse - Rock Anthem,Iron Pulse,226798
+2026-05-24,United States,8,Aria Sky - Pop Anthem,Aria Sky,329417
+2026-05-25,United States,1,Static Kings - Rock Anthem,Static Kings,1834911
+2026-05-25,United States,2,Iron Pulse - Rock Anthem,Iron Pulse,1234386
+2026-05-25,United States,3,Lil Echo - Rap Anthem,Lil Echo,547082
+2026-05-25,United States,4,Nova MC - Rap Anthem,Nova MC,631069
+2026-05-25,United States,5,Aria Sky - Pop Anthem,Aria Sky,242020
+2026-05-25,United States,6,Dusty Roads - Country Anthem,Dusty Roads,378400
+2026-05-25,United States,7,June Wilder - Country Anthem,June Wilder,223797
+2026-05-25,United States,8,The Bright - Pop Anthem,The Bright,261778
+2026-05-26,United States,1,Aria Sky - Pop Anthem,Aria Sky,1551602
+2026-05-26,United States,2,Iron Pulse - Rock Anthem,Iron Pulse,908293
+2026-05-26,United States,3,Nova MC - Rap Anthem,Nova MC,614022
+2026-05-26,United States,4,Static Kings - Rock Anthem,Static Kings,322932
+2026-05-26,United States,5,Dusty Roads - Country Anthem,Dusty Roads,491054
+2026-05-26,United States,6,The Bright - Pop Anthem,The Bright,377058
+2026-05-26,United States,7,June Wilder - Country Anthem,June Wilder,223825
+2026-05-26,United States,8,Lil Echo - Rap Anthem,Lil Echo,315634
+2026-05-27,United States,1,Static Kings - Rock Anthem,Static Kings,1272052
+2026-05-27,United States,2,The Bright - Pop Anthem,The Bright,854736
+2026-05-27,United States,3,Dusty Roads - Country Anthem,Dusty Roads,703294
+2026-05-27,United States,4,June Wilder - Country Anthem,June Wilder,619712
+2026-05-27,United States,5,Nova MC - Rap Anthem,Nova MC,539770
+2026-05-27,United States,6,Lil Echo - Rap Anthem,Lil Echo,375916
+2026-05-27,United States,7,Iron Pulse - Rock Anthem,Iron Pulse,255608
+2026-05-27,United States,8,Aria Sky - Pop Anthem,Aria Sky,235623
+2026-05-28,United States,1,Aria Sky - Pop Anthem,Aria Sky,1227051
+2026-05-28,United States,2,Nova MC - Rap Anthem,Nova MC,1346676
+2026-05-28,United States,3,Iron Pulse - Rock Anthem,Iron Pulse,448706
+2026-05-28,United States,4,Static Kings - Rock Anthem,Static Kings,588358
+2026-05-28,United States,5,Dusty Roads - Country Anthem,Dusty Roads,429576
+2026-05-28,United States,6,Lil Echo - Rap Anthem,Lil Echo,256405
+2026-05-28,United States,7,June Wilder - Country Anthem,June Wilder,244809
+2026-05-28,United States,8,The Bright - Pop Anthem,The Bright,259424
+2026-05-29,United States,1,The Bright - Pop Anthem,The Bright,1605793
+2026-05-29,United States,2,Iron Pulse - Rock Anthem,Iron Pulse,947677
+2026-05-29,United States,3,Lil Echo - Rap Anthem,Lil Echo,484424
+2026-05-29,United States,4,Nova MC - Rap Anthem,Nova MC,305963
+2026-05-29,United States,5,June Wilder - Country Anthem,June Wilder,439279
+2026-05-29,United States,6,Aria Sky - Pop Anthem,Aria Sky,373874
+2026-05-29,United States,7,Dusty Roads - Country Anthem,Dusty Roads,193392
+2026-05-29,United States,8,Static Kings - Rock Anthem,Static Kings,295792
+2026-05-30,United States,1,Lil Echo - Rap Anthem,Lil Echo,2649499
+2026-05-30,United States,2,Static Kings - Rock Anthem,Static Kings,1096243
+2026-05-30,United States,3,Dusty Roads - Country Anthem,Dusty Roads,646803
+2026-05-30,United States,4,Nova MC - Rap Anthem,Nova MC,526611
+2026-05-30,United States,5,Iron Pulse - Rock Anthem,Iron Pulse,385249
+2026-05-30,United States,6,The Bright - Pop Anthem,The Bright,209689
+2026-05-30,United States,7,Aria Sky - Pop Anthem,Aria Sky,389689
+2026-05-30,United States,8,June Wilder - Country Anthem,June Wilder,244913
+2026-05-01,India,1,Lil Echo - Rap Anthem,Lil Echo,1410962
+2026-05-01,India,2,Static Kings - Rock Anthem,Static Kings,1121627
+2026-05-01,India,3,June Wilder - Country Anthem,June Wilder,759973
+2026-05-01,India,4,The Bright - Pop Anthem,The Bright,311327
+2026-05-01,India,5,Aria Sky - Pop Anthem,Aria Sky,546926
+2026-05-01,India,6,Nova MC - Rap Anthem,Nova MC,385454
+2026-05-01,India,7,Dusty Roads - Country Anthem,Dusty Roads,391733
+2026-05-01,India,8,Iron Pulse - Rock Anthem,Iron Pulse,256953
+2026-05-02,India,1,Static Kings - Rock Anthem,Static Kings,1524824
+2026-05-02,India,2,The Bright - Pop Anthem,The Bright,1082094
+2026-05-02,India,3,Aria Sky - Pop Anthem,Aria Sky,735981
+2026-05-02,India,4,June Wilder - Country Anthem,June Wilder,452892
+2026-05-02,India,5,Dusty Roads - Country Anthem,Dusty Roads,338805
+2026-05-02,India,6,Nova MC - Rap Anthem,Nova MC,208233
+2026-05-02,India,7,Iron Pulse - Rock Anthem,Iron Pulse,288570
+2026-05-02,India,8,Lil Echo - Rap Anthem,Lil Echo,295016
+2026-05-03,India,1,The Bright - Pop Anthem,The Bright,2137749
+2026-05-03,India,2,Lil Echo - Rap Anthem,Lil Echo,881578
+2026-05-03,India,3,Iron Pulse - Rock Anthem,Iron Pulse,412543
+2026-05-03,India,4,Nova MC - Rap Anthem,Nova MC,439642
+2026-05-03,India,5,Static Kings - Rock Anthem,Static Kings,498417
+2026-05-03,India,6,Aria Sky - Pop Anthem,Aria Sky,272609
+2026-05-03,India,7,Dusty Roads - Country Anthem,Dusty Roads,236065
+2026-05-03,India,8,June Wilder - Country Anthem,June Wilder,278016
+2026-05-04,India,1,Aria Sky - Pop Anthem,Aria Sky,1833029
+2026-05-04,India,2,June Wilder - Country Anthem,June Wilder,847349
+2026-05-04,India,3,Nova MC - Rap Anthem,Nova MC,754870
+2026-05-04,India,4,The Bright - Pop Anthem,The Bright,474103
+2026-05-04,India,5,Static Kings - Rock Anthem,Static Kings,368292
+2026-05-04,India,6,Iron Pulse - Rock Anthem,Iron Pulse,352638
+2026-05-04,India,7,Lil Echo - Rap Anthem,Lil Echo,306991
+2026-05-04,India,8,Dusty Roads - Country Anthem,Dusty Roads,334671
+2026-05-05,India,1,Lil Echo - Rap Anthem,Lil Echo,2572641
+2026-05-05,India,2,June Wilder - Country Anthem,June Wilder,626420
+2026-05-05,India,3,Static Kings - Rock Anthem,Static Kings,616909
+2026-05-05,India,4,Iron Pulse - Rock Anthem,Iron Pulse,441201
+2026-05-05,India,5,Dusty Roads - Country Anthem,Dusty Roads,463690
+2026-05-05,India,6,The Bright - Pop Anthem,The Bright,325402
+2026-05-05,India,7,Nova MC - Rap Anthem,Nova MC,180030
+2026-05-05,India,8,Aria Sky - Pop Anthem,Aria Sky,297822
+2026-05-06,India,1,Aria Sky - Pop Anthem,Aria Sky,1375855
+2026-05-06,India,2,Static Kings - Rock Anthem,Static Kings,1107991
+2026-05-06,India,3,June Wilder - Country Anthem,June Wilder,746706
+2026-05-06,India,4,Iron Pulse - Rock Anthem,Iron Pulse,354941
+2026-05-06,India,5,Lil Echo - Rap Anthem,Lil Echo,462702
+2026-05-06,India,6,The Bright - Pop Anthem,The Bright,259397
+2026-05-06,India,7,Dusty Roads - Country Anthem,Dusty Roads,218488
+2026-05-06,India,8,Nova MC - Rap Anthem,Nova MC,288944
+2026-05-07,India,1,Static Kings - Rock Anthem,Static Kings,2046425
+2026-05-07,India,2,The Bright - Pop Anthem,The Bright,970138
+2026-05-07,India,3,Nova MC - Rap Anthem,Nova MC,759691
+2026-05-07,India,4,Lil Echo - Rap Anthem,Lil Echo,470626
+2026-05-07,India,5,Dusty Roads - Country Anthem,Dusty Roads,315126
+2026-05-07,India,6,Aria Sky - Pop Anthem,Aria Sky,220896
+2026-05-07,India,7,Iron Pulse - Rock Anthem,Iron Pulse,243203
+2026-05-07,India,8,June Wilder - Country Anthem,June Wilder,207996
+2026-05-08,India,1,The Bright - Pop Anthem,The Bright,1677659
+2026-05-08,India,2,Aria Sky - Pop Anthem,Aria Sky,864326
+2026-05-08,India,3,June Wilder - Country Anthem,June Wilder,539586
+2026-05-08,India,4,Dusty Roads - Country Anthem,Dusty Roads,660450
+2026-05-08,India,5,Iron Pulse - Rock Anthem,Iron Pulse,535470
+2026-05-08,India,6,Lil Echo - Rap Anthem,Lil Echo,398754
+2026-05-08,India,7,Static Kings - Rock Anthem,Static Kings,241689
+2026-05-08,India,8,Nova MC - Rap Anthem,Nova MC,201479
+2026-05-09,India,1,Lil Echo - Rap Anthem,Lil Echo,2534053
+2026-05-09,India,2,Iron Pulse - Rock Anthem,Iron Pulse,1355799
+2026-05-09,India,3,Dusty Roads - Country Anthem,Dusty Roads,537855
+2026-05-09,India,4,Aria Sky - Pop Anthem,Aria Sky,531327
+2026-05-09,India,5,Nova MC - Rap Anthem,Nova MC,331228
+2026-05-09,India,6,Static Kings - Rock Anthem,Static Kings,353311
+2026-05-09,India,7,June Wilder - Country Anthem,June Wilder,233060
+2026-05-09,India,8,The Bright - Pop Anthem,The Bright,231983
+2026-05-10,India,1,Nova MC - Rap Anthem,Nova MC,2149313
+2026-05-10,India,2,Aria Sky - Pop Anthem,Aria Sky,1000403
+2026-05-10,India,3,The Bright - Pop Anthem,The Bright,468428
+2026-05-10,India,4,Iron Pulse - Rock Anthem,Iron Pulse,589180
+2026-05-10,India,5,Lil Echo - Rap Anthem,Lil Echo,471534
+2026-05-10,India,6,Static Kings - Rock Anthem,Static Kings,258273
+2026-05-10,India,7,Dusty Roads - Country Anthem,Dusty Roads,302998
+2026-05-10,India,8,June Wilder - Country Anthem,June Wilder,313514
+2026-05-11,India,1,Aria Sky - Pop Anthem,Aria Sky,1297926
+2026-05-11,India,2,Nova MC - Rap Anthem,Nova MC,738669
+2026-05-11,India,3,Lil Echo - Rap Anthem,Lil Echo,858891
+2026-05-11,India,4,The Bright - Pop Anthem,The Bright,604673
+2026-05-11,India,5,Iron Pulse - Rock Anthem,Iron Pulse,393257
+2026-05-11,India,6,June Wilder - Country Anthem,June Wilder,280362
+2026-05-11,India,7,Static Kings - Rock Anthem,Static Kings,366085
+2026-05-11,India,8,Dusty Roads - Country Anthem,Dusty Roads,219549
+2026-05-12,India,1,Aria Sky - Pop Anthem,Aria Sky,2574629
+2026-05-12,India,2,The Bright - Pop Anthem,The Bright,700528
+2026-05-12,India,3,Iron Pulse - Rock Anthem,Iron Pulse,530364
+2026-05-12,India,4,June Wilder - Country Anthem,June Wilder,317164
+2026-05-12,India,5,Dusty Roads - Country Anthem,Dusty Roads,329004
+2026-05-12,India,6,Lil Echo - Rap Anthem,Lil Echo,315423
+2026-05-12,India,7,Static Kings - Rock Anthem,Static Kings,241002
+2026-05-12,India,8,Nova MC - Rap Anthem,Nova MC,335780
+2026-05-13,India,1,Dusty Roads - Country Anthem,Dusty Roads,1370617
+2026-05-13,India,2,The Bright - Pop Anthem,The Bright,1223028
+2026-05-13,India,3,Aria Sky - Pop Anthem,Aria Sky,508821
+2026-05-13,India,4,Lil Echo - Rap Anthem,Lil Echo,645509
+2026-05-13,India,5,Nova MC - Rap Anthem,Nova MC,346661
+2026-05-13,India,6,June Wilder - Country Anthem,June Wilder,304928
+2026-05-13,India,7,Static Kings - Rock Anthem,Static Kings,252854
+2026-05-13,India,8,Iron Pulse - Rock Anthem,Iron Pulse,291395
+2026-05-14,India,1,Iron Pulse - Rock Anthem,Iron Pulse,2088603
+2026-05-14,India,2,Lil Echo - Rap Anthem,Lil Echo,944195
+2026-05-14,India,3,Dusty Roads - Country Anthem,Dusty Roads,829954
+2026-05-14,India,4,Aria Sky - Pop Anthem,Aria Sky,669079
+2026-05-14,India,5,The Bright - Pop Anthem,The Bright,435034
+2026-05-14,India,6,June Wilder - Country Anthem,June Wilder,451835
+2026-05-14,India,7,Static Kings - Rock Anthem,Static Kings,231106
+2026-05-14,India,8,Nova MC - Rap Anthem,Nova MC,222099
+2026-05-15,India,1,Aria Sky - Pop Anthem,Aria Sky,1315966
+2026-05-15,India,2,Lil Echo - Rap Anthem,Lil Echo,1347639
+2026-05-15,India,3,Dusty Roads - Country Anthem,Dusty Roads,693722
+2026-05-15,India,4,The Bright - Pop Anthem,The Bright,319223
+2026-05-15,India,5,June Wilder - Country Anthem,June Wilder,305505
+2026-05-15,India,6,Iron Pulse - Rock Anthem,Iron Pulse,437399
+2026-05-15,India,7,Nova MC - Rap Anthem,Nova MC,214969
+2026-05-15,India,8,Static Kings - Rock Anthem,Static Kings,231479
+2026-05-16,India,1,Dusty Roads - Country Anthem,Dusty Roads,1624197
+2026-05-16,India,2,Nova MC - Rap Anthem,Nova MC,766329
+2026-05-16,India,3,Lil Echo - Rap Anthem,Lil Echo,457483
+2026-05-16,India,4,The Bright - Pop Anthem,The Bright,420503
+2026-05-16,India,5,Static Kings - Rock Anthem,Static Kings,452251
+2026-05-16,India,6,Aria Sky - Pop Anthem,Aria Sky,390454
+2026-05-16,India,7,June Wilder - Country Anthem,June Wilder,266442
+2026-05-16,India,8,Iron Pulse - Rock Anthem,Iron Pulse,298290
+2026-05-17,India,1,Iron Pulse - Rock Anthem,Iron Pulse,2110529
+2026-05-17,India,2,Static Kings - Rock Anthem,Static Kings,824463
+2026-05-17,India,3,Aria Sky - Pop Anthem,Aria Sky,801740
+2026-05-17,India,4,Nova MC - Rap Anthem,Nova MC,683705
+2026-05-17,India,5,The Bright - Pop Anthem,The Bright,288957
+2026-05-17,India,6,Dusty Roads - Country Anthem,Dusty Roads,414591
+2026-05-17,India,7,Lil Echo - Rap Anthem,Lil Echo,191924
+2026-05-17,India,8,June Wilder - Country Anthem,June Wilder,282532
+2026-05-18,India,1,Static Kings - Rock Anthem,Static Kings,1683356
+2026-05-18,India,2,June Wilder - Country Anthem,June Wilder,1273177
+2026-05-18,India,3,Dusty Roads - Country Anthem,Dusty Roads,431170
+2026-05-18,India,4,Nova MC - Rap Anthem,Nova MC,391352
+2026-05-18,India,5,Iron Pulse - Rock Anthem,Iron Pulse,494060
+2026-05-18,India,6,Lil Echo - Rap Anthem,Lil Echo,422590
+2026-05-18,India,7,Aria Sky - Pop Anthem,Aria Sky,387942
+2026-05-18,India,8,The Bright - Pop Anthem,The Bright,182673
+2026-05-19,India,1,Aria Sky - Pop Anthem,Aria Sky,1518352
+2026-05-19,India,2,June Wilder - Country Anthem,June Wilder,706781
+2026-05-19,India,3,Iron Pulse - Rock Anthem,Iron Pulse,930142
+2026-05-19,India,4,Dusty Roads - Country Anthem,Dusty Roads,549443
+2026-05-19,India,5,Lil Echo - Rap Anthem,Lil Echo,314807
+2026-05-19,India,6,The Bright - Pop Anthem,The Bright,236344
+2026-05-19,India,7,Static Kings - Rock Anthem,Static Kings,202158
+2026-05-19,India,8,Nova MC - Rap Anthem,Nova MC,230254
+2026-05-20,India,1,Lil Echo - Rap Anthem,Lil Echo,1605822
+2026-05-20,India,2,Static Kings - Rock Anthem,Static Kings,974756
+2026-05-20,India,3,Iron Pulse - Rock Anthem,Iron Pulse,436117
+2026-05-20,India,4,Nova MC - Rap Anthem,Nova MC,576903
+2026-05-20,India,5,The Bright - Pop Anthem,The Bright,454504
+2026-05-20,India,6,Aria Sky - Pop Anthem,Aria Sky,314073
+2026-05-20,India,7,Dusty Roads - Country Anthem,Dusty Roads,275724
+2026-05-20,India,8,June Wilder - Country Anthem,June Wilder,336562
+2026-05-21,India,1,Nova MC - Rap Anthem,Nova MC,1598597
+2026-05-21,India,2,June Wilder - Country Anthem,June Wilder,1198714
+2026-05-21,India,3,Iron Pulse - Rock Anthem,Iron Pulse,492565
+2026-05-21,India,4,Lil Echo - Rap Anthem,Lil Echo,556701
+2026-05-21,India,5,The Bright - Pop Anthem,The Bright,307395
+2026-05-21,India,6,Dusty Roads - Country Anthem,Dusty Roads,220864
+2026-05-21,India,7,Aria Sky - Pop Anthem,Aria Sky,377945
+2026-05-21,India,8,Static Kings - Rock Anthem,Static Kings,332047
+2026-05-22,India,1,Aria Sky - Pop Anthem,Aria Sky,2346782
+2026-05-22,India,2,Iron Pulse - Rock Anthem,Iron Pulse,1360609
+2026-05-22,India,3,June Wilder - Country Anthem,June Wilder,470298
+2026-05-22,India,4,Lil Echo - Rap Anthem,Lil Echo,350822
+2026-05-22,India,5,Static Kings - Rock Anthem,Static Kings,334721
+2026-05-22,India,6,Nova MC - Rap Anthem,Nova MC,218160
+2026-05-22,India,7,Dusty Roads - Country Anthem,Dusty Roads,393646
+2026-05-22,India,8,The Bright - Pop Anthem,The Bright,266305
+2026-05-23,India,1,Nova MC - Rap Anthem,Nova MC,1283390
+2026-05-23,India,2,Static Kings - Rock Anthem,Static Kings,898639
+2026-05-23,India,3,June Wilder - Country Anthem,June Wilder,634318
+2026-05-23,India,4,Lil Echo - Rap Anthem,Lil Echo,651469
+2026-05-23,India,5,Aria Sky - Pop Anthem,Aria Sky,372347
+2026-05-23,India,6,Dusty Roads - Country Anthem,Dusty Roads,421686
+2026-05-23,India,7,Iron Pulse - Rock Anthem,Iron Pulse,322412
+2026-05-23,India,8,The Bright - Pop Anthem,The Bright,259292
+2026-05-24,India,1,Lil Echo - Rap Anthem,Lil Echo,2195677
+2026-05-24,India,2,Iron Pulse - Rock Anthem,Iron Pulse,1265923
+2026-05-24,India,3,June Wilder - Country Anthem,June Wilder,899048
+2026-05-24,India,4,The Bright - Pop Anthem,The Bright,373150
+2026-05-24,India,5,Dusty Roads - Country Anthem,Dusty Roads,324387
+2026-05-24,India,6,Static Kings - Rock Anthem,Static Kings,303017
+2026-05-24,India,7,Aria Sky - Pop Anthem,Aria Sky,317672
+2026-05-24,India,8,Nova MC - Rap Anthem,Nova MC,195478
+2026-05-25,India,1,Static Kings - Rock Anthem,Static Kings,1448882
+2026-05-25,India,2,Lil Echo - Rap Anthem,Lil Echo,1079037
+2026-05-25,India,3,The Bright - Pop Anthem,The Bright,828087
+2026-05-25,India,4,June Wilder - Country Anthem,June Wilder,533973
+2026-05-25,India,5,Iron Pulse - Rock Anthem,Iron Pulse,460189
+2026-05-25,India,6,Aria Sky - Pop Anthem,Aria Sky,302740
+2026-05-25,India,7,Nova MC - Rap Anthem,Nova MC,344742
+2026-05-25,India,8,Dusty Roads - Country Anthem,Dusty Roads,206349
+2026-05-26,India,1,Aria Sky - Pop Anthem,Aria Sky,1922191
+2026-05-26,India,2,Static Kings - Rock Anthem,Static Kings,1215536
+2026-05-26,India,3,The Bright - Pop Anthem,The Bright,440698
+2026-05-26,India,4,Lil Echo - Rap Anthem,Lil Echo,374522
+2026-05-26,India,5,Iron Pulse - Rock Anthem,Iron Pulse,281597
+2026-05-26,India,6,June Wilder - Country Anthem,June Wilder,222920
+2026-05-26,India,7,Nova MC - Rap Anthem,Nova MC,182204
+2026-05-26,India,8,Dusty Roads - Country Anthem,Dusty Roads,256183
+2026-05-27,India,1,Nova MC - Rap Anthem,Nova MC,1927063
+2026-05-27,India,2,Lil Echo - Rap Anthem,Lil Echo,639587
+2026-05-27,India,3,The Bright - Pop Anthem,The Bright,839668
+2026-05-27,India,4,Dusty Roads - Country Anthem,Dusty Roads,416539
+2026-05-27,India,5,June Wilder - Country Anthem,June Wilder,251537
+2026-05-27,India,6,Aria Sky - Pop Anthem,Aria Sky,367807
+2026-05-27,India,7,Static Kings - Rock Anthem,Static Kings,222979
+2026-05-27,India,8,Iron Pulse - Rock Anthem,Iron Pulse,180210
+2026-05-28,India,1,Lil Echo - Rap Anthem,Lil Echo,2157084
+2026-05-28,India,2,Aria Sky - Pop Anthem,Aria Sky,1188174
+2026-05-28,India,3,Iron Pulse - Rock Anthem,Iron Pulse,878613
+2026-05-28,India,4,The Bright - Pop Anthem,The Bright,343756
+2026-05-28,India,5,Dusty Roads - Country Anthem,Dusty Roads,272647
+2026-05-28,India,6,June Wilder - Country Anthem,June Wilder,246800
+2026-05-28,India,7,Static Kings - Rock Anthem,Static Kings,378357
+2026-05-28,India,8,Nova MC - Rap Anthem,Nova MC,339069
+2026-05-29,India,1,Aria Sky - Pop Anthem,Aria Sky,1777146
+2026-05-29,India,2,Lil Echo - Rap Anthem,Lil Echo,831409
+2026-05-29,India,3,Iron Pulse - Rock Anthem,Iron Pulse,476982
+2026-05-29,India,4,Static Kings - Rock Anthem,Static Kings,450272
+2026-05-29,India,5,June Wilder - Country Anthem,June Wilder,360602
+2026-05-29,India,6,Nova MC - Rap Anthem,Nova MC,285467
+2026-05-29,India,7,Dusty Roads - Country Anthem,Dusty Roads,356779
+2026-05-29,India,8,The Bright - Pop Anthem,The Bright,268220
+2026-05-30,India,1,Iron Pulse - Rock Anthem,Iron Pulse,2761859
+2026-05-30,India,2,Static Kings - Rock Anthem,Static Kings,835542
+2026-05-30,India,3,Lil Echo - Rap Anthem,Lil Echo,636169
+2026-05-30,India,4,The Bright - Pop Anthem,The Bright,661937
+2026-05-30,India,5,Nova MC - Rap Anthem,Nova MC,245926
+2026-05-30,India,6,Dusty Roads - Country Anthem,Dusty Roads,333920
+2026-05-30,India,7,June Wilder - Country Anthem,June Wilder,289957
+2026-05-30,India,8,Aria Sky - Pop Anthem,Aria Sky,251714
