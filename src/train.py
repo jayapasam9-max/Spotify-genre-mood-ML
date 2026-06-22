@@ -76,7 +76,6 @@ def main(config_path):
         args=args,
         train_dataset=ds["train"],
         eval_dataset=ds["val"],
-        tokenizer=tok,
         data_collator=DataCollatorWithPadding(tok),
         compute_metrics=compute_metrics,
     )
