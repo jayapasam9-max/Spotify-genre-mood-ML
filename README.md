@@ -4,12 +4,8 @@ Fine-tune **DistilBERT** to classify song **genre/mood from lyrics**, benchmarke
 against a classic TF-IDF baseline — plus an interactive **Spotify charts** analytics
 dashboard. End-to-end, reproducible, and **$0** to build (free models, free GPU, free hosting).
 
-<!-- Replace with your own once deployed -->
-[![Demo](https://img.shields.io/badge/🤗_Live_Demo-Hugging_Face-yellow)](https://huggingface.co/spaces/YOUR_USERNAME/spotify-genre-mood)
-[![Dashboard](https://img.shields.io/badge/Streamlit-Dashboard-red)](https://YOUR-APP.streamlit.app)
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
-
-> ⚠️ Replace every `YOUR_USERNAME` / metric placeholder (`__`) below with your real values.
+![Model](https://img.shields.io/badge/model-DistilBERT-orange)
 
 ---
 
@@ -22,17 +18,23 @@ dashboard. End-to-end, reproducible, and **$0** to build (free models, free GPU,
 
 ## 📊 Results
 
-> Run on the **real** dataset, then paste your numbers here. (Sample data is toy data.)
+Classifying **4 genres** (hip-hop, country, metal, pop) from lyrics alone, on a held-out
+test set of 1,600 songs. Random guessing would be 25%.
 
 | Model | Accuracy | Macro F1 |
 |-------|:--------:|:--------:|
-| Baseline (TF-IDF + LogReg) | `__%` | `__` |
-| **Fine-tuned DistilBERT**  | **`__%`** | **`__`** |
+| Baseline (TF-IDF + Logistic Regression) | 64.0% | 0.637 |
+| **Fine-tuned DistilBERT** | **68.3%** | **0.686** |
 
-![Confusion matrix](reports/confusion_matrix.png)
+DistilBERT improves on a strong TF-IDF baseline by ~4 points. The takeaway: bag-of-words
+is surprisingly competitive for lyrics, but a fine-tuned transformer still adds a
+meaningful, consistent gain.
 
-**Error analysis (example):** the model most often confuses `__` with `__`, usually on
-short lyrics where vocabulary overlaps. See `reports/worst_errors.csv`.
+**Error analysis:** hip-hop and country are the most reliably classified genres, thanks to
+their distinctive vocabularies. **Pop is the hardest class** — country, metal, and pop
+songs are frequently pulled toward "pop" because it is the broadest, least lexically
+distinct category. The largest confusions are metal→pop and country→pop. The model's most
+confident mistakes are saved to `reports/worst_errors.csv`.
 
 ## 🏗️ Architecture
 
@@ -48,8 +50,8 @@ model ────────────────────────�
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spotify-genre-mood-ml.git
-cd spotify-genre-mood-ml
+git clone https://github.com/jayapasam9-max/Spotify-genre-mood-ML.git
+cd Spotify-genre-mood-ML
 pip install -r requirements.txt
 
 # 1) Prepare data (uses bundled sample by default)
