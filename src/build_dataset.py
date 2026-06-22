@@ -20,12 +20,8 @@ GENRE_KEYWORDS = {
     "hip-hop": ["hip hop", "hip-hop", "rap", "trap"],
     "country": ["country"],
     "metal": ["metal"],
-    "rock": ["rock", "punk", "grunge"],
-    "r&b": ["r&b", "rnb", "soul", "funk"],
-    "electronic": ["electro", "edm", "house", "techno", "dance"],
     "pop": ["pop"],
 }
-
 
 def map_genre(tags):
     joined = " ".join(tags).lower()
