@@ -4,7 +4,7 @@ target: genre
 
 # ---- Data ----
 data:
-  lyrics_csv: data/sample_lyrics.csv   # swap to data/full/lyrics.csv for the real run
+  lyrics_csv: data/full/lyrics.csv     # real dataset built by src/build_dataset.py
   charts_csv: data/sample_charts.csv
   text_col: lyrics
   min_chars: 20            # drop near-empty lyrics
