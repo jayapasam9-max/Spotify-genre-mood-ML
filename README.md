@@ -4,8 +4,11 @@ Fine-tune **DistilBERT** to classify song **genre/mood from lyrics**, benchmarke
 against a classic TF-IDF baseline — plus an interactive **Spotify charts** analytics
 dashboard. End-to-end, reproducible, and **$0** to build (free models, free GPU, free hosting).
 
+[![Live Demo](https://img.shields.io/badge/🤗_Live_Demo-Hugging_Face-yellow)](https://huggingface.co/spaces/Jayasimha01/spotify-genre-mood-demo)
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![Model](https://img.shields.io/badge/model-DistilBERT-orange)
+
+**▶️ Try it live:** [paste lyrics → get a genre prediction](https://huggingface.co/spaces/Jayasimha01/spotify-genre-mood-demo)
 
 ---
 
@@ -44,7 +47,7 @@ lyrics.csv ──► data_prep ──► train/val/test ──► DistilBERT fin
                                   └──► TF-IDF baseline     └──► evaluate (CM + errors)
                                                                    │
 charts.csv ──────────────────────────────────────────► Streamlit dashboard
-model ─────────────────────────────────────────────► Gradio demo (HF Spaces)
+model ────────────────────────────────────────────► Gradio demo (HF Spaces)
 ```
 
 ## 🚀 Quickstart
